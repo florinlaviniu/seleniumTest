@@ -1,0 +1,21 @@
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\SeleniumText.dll
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\SeleniumText.pdb
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\WebDriver.dll
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\WebDriver.xml
+D:\eklos\Offline\SeleniumText\SeleniumText\obj\Debug\SeleniumText.csprojAssemblyReference.cache
+D:\eklos\Offline\SeleniumText\SeleniumText\obj\Debug\SeleniumText.csproj.CoreCompileInputs.cache
+D:\eklos\Offline\SeleniumText\SeleniumText\obj\Debug\SeleniumText.csproj.CopyComplete
+D:\eklos\Offline\SeleniumText\SeleniumText\obj\Debug\SeleniumText.dll
+D:\eklos\Offline\SeleniumText\SeleniumText\obj\Debug\SeleniumText.pdb
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\BV2.csv
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\BV2 - Copy.csv
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\WebDriver.Support.dll
+D:\eklos\Offline\SeleniumText\SeleniumText\bin\Debug\WebDriver.Support.xml

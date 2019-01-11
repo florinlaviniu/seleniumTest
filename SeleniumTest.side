@@ -1,0 +1,123 @@
+{
+  "id": "fe4edd7c-cbcc-48e2-a2db-4cc36c5ae88b",
+  "version": "1.1",
+  "name": "SeleniumTest",
+  "url": "http://185.100.238.9",
+  "tests": [{
+    "id": "39e281f6-c6cc-4bb0-9551-60b095c3839b",
+    "name": "test prst",
+    "commands": [{
+      "id": "d770b7fe-9250-42e1-80a2-2bbbfde2c17c",
+      "comment": "",
+      "command": "open",
+      "target": "/PRST_MM_Test_WebSite/Account/Login?ReturnUrl=%2fPRST_MM_Test_WebSite%2f",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "92611946-9ef3-4468-8a49-3b719f1a2798",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1265x886",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d53d4cf7-e5a6-4554-8b9e-d154d7dc12da",
+      "comment": "",
+      "command": "click",
+      "target": "id=Username",
+      "targets": [
+        ["id=Username", "id"],
+        ["name=Username", "name"],
+        ["css=#Username", "css"],
+        ["css=#Username", "css:finder"],
+        ["xpath=//input[@id='Username']", "xpath:attributes"],
+        ["xpath=//form[@id='target']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b9b24095-cb5f-439d-b5ea-67233baa8e37",
+      "comment": "",
+      "command": "type",
+      "target": "id=Username",
+      "targets": [
+        ["id=Username", "id"],
+        ["name=Username", "name"],
+        ["css=#Username", "css"],
+        ["css=#Username", "css:finder"],
+        ["xpath=//input[@id='Username']", "xpath:attributes"],
+        ["xpath=//form[@id='target']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "prst"
+    }, {
+      "id": "98212df6-975a-4d11-95fe-73ad26fa4479",
+      "comment": "",
+      "command": "click",
+      "target": "id=Password",
+      "targets": [
+        ["id=Password", "id"],
+        ["name=Password", "name"],
+        ["css=#Password", "css"],
+        ["css=#Password", "css:finder"],
+        ["xpath=//input[@id='Password']", "xpath:attributes"],
+        ["xpath=//form[@id='target']/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "fe10e065-e638-4249-8550-1a03b4991fbd",
+      "comment": "",
+      "command": "type",
+      "target": "id=Password",
+      "targets": [
+        ["id=Password", "id"],
+        ["name=Password", "name"],
+        ["css=#Password", "css"],
+        ["css=#Password", "css:finder"],
+        ["xpath=//input[@id='Password']", "xpath:attributes"],
+        ["xpath=//form[@id='target']/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "12QWaszx"
+    }, {
+      "id": "487b9624-5a47-4445-bef3-80ff0c264149",
+      "comment": "",
+      "command": "click",
+      "target": "id=login-btn",
+      "targets": [
+        ["id=login-btn", "id"],
+        ["css=#login-btn", "css"],
+        ["css=#login-btn", "css:finder"],
+        ["xpath=//input[@id='login-btn']", "xpath:attributes"],
+        ["xpath=//form[@id='target']/div[3]/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c0d0df4a-5a05-418c-b6b0-443fd622ed7d",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "css=div.sidebar-nav-fixed",
+      "targets": [
+        ["linkText=Incoming", "linkText"],
+        ["css=a.head", "css"],
+        ["css=li:nth-child(1) > .head", "css:finder"],
+        ["xpath=//ul[@id='accordion-menu-js']/li/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'javascript:void(0)')])[3]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "ac19dfcd-82d1-4a20-9165-44da8b7b039f",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["39e281f6-c6cc-4bb0-9551-60b095c3839b"]
+  }],
+  "urls": ["http://185.100.238.9/"],
+  "plugins": []
+}
